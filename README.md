@@ -15,9 +15,7 @@
 - T.zip (23.10-12)
 
 <div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231B2E8A&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=%E2%99%A7&edge_flat=false" alt="Hits Badge" />
-  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeun088%2Fhit-counter&count_bg=%231F1D87&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=%E2%99%A7&edge_flat=false"/></a>
 </div>
 
 
