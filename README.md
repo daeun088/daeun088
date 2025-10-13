@@ -3,22 +3,14 @@
   <img src="https://render.gitanimals.org/farms/{daeun088}"/>
 </a>
 
-## 🌱Activity
-- KISA 개인정보 불법 유통 대응 대학생 모니터링단 (23.07-12)
--  SKT DEVOCEAN YOUNG 3기 (24.02-12)
+        ／＞　 フ
+        | 　_　_|          
+      ／` ミ＿xノ         
+     /　　　　 |       ＿＿＿＿＿＿＿＿＿＿＿＿
+    /　 ヽ＿ヽ_)_)    ｜✉️  kde2329@naver.com ｜
+    ＼二つ             ￣￣￣￣￣￣￣￣￣￣￣￣
 
-## 💫Project
 
-- INNO-SCHOOL 프로젝트 (23.04-05)
-- 서울 우먼 테크 해커톤 (23.07-08)
-- 제로웨이스트 대학생 해커톤 (23.08-09)
-- T.zip (23.10-12)
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeun088%2Fhit-counter&count_bg=%231F1D87&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=%E2%99%A7&edge_flat=false"/></a>
-</div>
-
-✉️ kde2329@naver.com
 <!--
 **daeun088/daeun088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
